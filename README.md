@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lo-shoegazer
-- 👀 I’m interested in ...Learning programming languages,and Composing
+- 👋 Hi, I’m @hyunwooryu
+- 👀 I’m interested in ...Learning programming languages
 - 🌱 I’m currently learning ...Vanilla JS
 - 💞️ I’m looking to collaborate on ...nothing yet
-- 📫 How to reach me ...Please send email to g30sxnw73@relay.firefox.com
+- 📫 How to reach me ...Please send email to hyunwoo.ryuuu@gmail.com
 
 <!---
 lo-shoegazer/lo-shoegazer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
